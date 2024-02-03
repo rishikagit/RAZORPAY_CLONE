@@ -1,2 +1,2 @@
 # RAZORPAY_CLONE
-I developed razorpay clone using html, javascript, tailwind css nodejs.
+I developed razorpay clone using html, javascript, tailwind css. nodejs.
